@@ -117,13 +117,13 @@ button {
     gap: 1.2rem;
 }
 
-.plan-card span {
+.plan {
     font-size: .8955rem;
     font-weight: 900;
     color: var(--dark-blue);
 }
 
-.plan-card li {
+.price {
     font-size: .8955rem;
     color: var(--desaturated-blue);
     line-height: 1.5;
@@ -202,11 +202,11 @@ button {
         width: 100%;
     }
 
-    .plan-card span {
+    .plan {
         font-size: 1rem;
     }
 
-    .plan-card li {
+    .price {
         font-size: 1rem;
     }
 
