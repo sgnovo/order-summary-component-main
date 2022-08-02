@@ -43,7 +43,7 @@ body {
 
 /* Main */
 main {
-    /* width: 100vw; */
+    width: 100vw;
     height: 100vh;
     display: flex;
     align-items: center;
@@ -195,6 +195,7 @@ button {
 
     .card {
         padding: 2.8rem 3rem;
+        flex-direction: column;
     }
 
     .payment {
